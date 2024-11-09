@@ -38,10 +38,6 @@ This concept bridges multiple disciplines, including interstellar communication 
 
 ------------------------------------
 
-## UBC OpenJupyter Notebooks
-
-![alt text](image-7.png)
-
 ## Github CodeSpaces
 
 ![alt text](image-9.png)
